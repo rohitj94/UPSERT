@@ -1,0 +1,5 @@
+TO make a colum UNIQUE in MySQL
+
+alter table Petrol add unique(district);
+
+select * from Petrol; -- to retrieve data
